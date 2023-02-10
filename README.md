@@ -13,4 +13,10 @@
   <li>JS Routes</li>
   <li>OOP</li>
   <li>Modules</li>
+ <br>
+ <br>
+ <br>
+ <p>
+    Está simples aplicação foi para dar inicio aos meus estudos de OOP, Assínconismo, Rotas, Servidor NODE e conceito SPA, em Javascript, o projeto é bem simples, sem estilização apenas para aprender os conceitos um por um.
+  </p>
 </ul>
