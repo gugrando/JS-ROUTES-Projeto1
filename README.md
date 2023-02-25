@@ -6,7 +6,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
-<h3 align="center">Conhecimentos Aplicados:</h3>
+<h3 align="center">Knowledge studied:</h3>
 <ul align="start"> 
   <li>Single Page Aplication</li>
   <li>Promises & Asinc</li>
@@ -17,6 +17,6 @@
  <br>
  <br>
  <p>
-    Está simples aplicação foi para dar inicio aos meus estudos de OOP, Assínconismo, Rotas, Servidor NODE e conceito SPA, em Javascript, o projeto é bem simples, sem estilização apenas para aprender os conceitos um por um.
+    This simple application was to start my studies of OOP, Synchronism, Routes, Node Server and SPA concept, in Javascript, the project is very simple, without    styling, just to learn the concepts one by one.
   </p>
 </ul>
