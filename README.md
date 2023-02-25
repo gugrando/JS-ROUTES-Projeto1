@@ -1,4 +1,4 @@
-<h1 align="center"> Simples aplicação SPA </h1>
+<h1 align="center"> Simples SPA application </h1>
 <img  src="https://github.com/gugrando/JS-ROUTES-Projeto1/blob/main/readme/chrome-capture-2023-1-9.gif"/>
 <h1 align="start"> Stacks: </h1>
 <ul align="start"> 
